@@ -4,10 +4,8 @@
 # 3) check for win or tie
 # 4) switch the player 
 # 5) check for win or tie again 
+# 6) add minimax algorithm 
 
-#to do:
-#add a tie functionality
-#use minimax algorithm 
 import math
 import random
 from itertools import permutations
